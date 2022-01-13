@@ -5,25 +5,9 @@
 
 
 We're a team of a total of six members including 2 UX-UI Designer aspirants, and 4 Full-Stack Developer aspirants of Masai School. <br />
-We developed a clone of the website of Zostel in just 5 days as a part of our curriculum of construct week in Unit-5.  <br /> 
-This blog is all about our journey and the challenges we faced while building the project. 
+We developed a clone of the website of Zostel in just 5 days as a part of our curriculum of construct week in Unit-5.
 <br />
 <br />
-
-# *What was our problem statement and how did we approach it:-* <br />
-So we had a problem statement that we have to create a clone of a website called Zostel.com, by using the MERN stack. We were four members in our development group. <br /> 
-We faced some problems in the styling part while using Bootstrap in React <br />
-But we've solved all of those problems by doing collaborative work & flawless communication.
-<br />
-<br />
-
-## *Technology Stack Used:-* <br />
-In this project we have used the following tech stack: <br />
-- Figma (Designing Tool)
-- React
-- CSS-module
-- Styled Component
-- BootStrap
 
 ## *Some Snapshots of our project that we made:-* <br />
 
@@ -75,6 +59,23 @@ In this project we have used the following tech stack: <br />
 
 ![PaymentSuccefulPage.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1639926124751/vMdXWbonap.png)
 
+
+<br />
+
+# *What was our problem statement and how did we approach it:-* <br />
+So we had a problem statement that we have to create a clone of a website called Zostel.com, by using the MERN stack. We were four members in our development group. <br /> 
+We faced some problems in the styling part while using Bootstrap in React <br />
+But we've solved all of those problems by doing collaborative work & flawless communication.
+<br />
+<br />
+
+## *Technology Stack Used:-* <br />
+In this project we have used the following tech stack: <br />
+- Figma (Designing Tool)
+- React
+- CSS-module
+- Styled Component
+- BootStrap
 
 <br />
 
